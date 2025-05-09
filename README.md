@@ -3,6 +3,9 @@
 ## 概要
 「タイピングヒーロー」は、**技育CAMPハッカソン Vol.23（主催：株式会社サポーターズ）**にて制作した、RPG型タイピングゲームです。初めてのハッカソン参加ながら、**努力賞を受賞**しました。
 
+## プレゼン資料・紹介動画
+- [プレゼン資料・紹介動画はこちら](https://docs.google.com/presentation/d/1sltSnanSDDQJQiWUmmAtSSk92EcbNvtpqkchCCC729k/edit?usp=sharing)
+
 ## 特徴
 - タイピング操作で敵を倒すアクション型タイピングゲーム
 - 演出・効果音などUIにこだわった設計
@@ -18,9 +21,6 @@
 - C#
 - googleスライド（資料作成）
 - ChatGPT(キャラのイラスト作成）
-
-## プレゼン資料・紹介動画
-- [プレゼンスライドはこちら](https://docs.google.com/presentation/d/1sltSnanSDDQJQiWUmmAtSSk92EcbNvtpqkchCCC729k/edit?usp=sharing)
 
 ## 振り返りと学び
 
