@@ -9,8 +9,8 @@
 
 ## プレゼン資料・紹介動画
 
-👉 [プレゼン資料・紹介動画はこちら](https://docs.google.com/presentation/d/1sltSnanSDDQJQiWUmmAtSSk92EcbNvtpqkchCCC729k/edit?usp=sharing)
-※プレゼンスライドの5枚目に紹介動画があります。
+👉 [プレゼン資料・紹介動画はこちら](https://docs.google.com/presentation/d/1sltSnanSDDQJQiWUmmAtSSk92EcbNvtpqkchCCC729k/edit?usp=sharing)  
+　　※プレゼンスライドの5枚目に紹介動画があります。
 ## 特徴
 
 - タイピング操作で敵を倒すアクション型タイピングゲーム  
