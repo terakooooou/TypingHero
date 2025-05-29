@@ -19,7 +19,8 @@
 
 ## 自分の担当
 
-- UI 設計（ボタン、効果音、BGM、シーン切り替えなど）  
+- UI操作（ボタン処理、シーン切り替えなど）
+- サウンド設定（効果音、BGMなど）  
 - プレゼン資料作成  
 - チーム代表として発表を担当  
 
@@ -44,7 +45,8 @@
 
 ## 備考
 
-本プロジェクトは**Unity Version Controlを利用してチームで共同開発**しており、リポジトリ容量が非常に大きくなってしまったため、GitHubへのコードのアップロードが出来ていない状態です。
+本プロジェクトは**Unity Version Controlを利用してチームで共同開発**しており、リポジトリ容量が非常に大きくなってしまったため、Google Driveへスクリプトやプレイ映像をアップロードしています。
+→(https://drive.google.com/drive/folders/1ggAzzerekYL8oeoaLwrimkuzBWdaMhoN?usp=sharing)
 
 ## 参考画像
 ![プレイ画面](battlescene.png)  
